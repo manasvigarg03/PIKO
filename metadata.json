@@ -1,0 +1,6 @@
+{
+  "name": "PIKO",
+  "description": "Plan • Initiate • Keep On Track: A premium Android-inspired productivity application featuring AI subtask breakdown, smart notifications, focus sessions, and growth accountability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
